@@ -1,0 +1,364 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+header{
+   min-height: 100px;
+   
+    background-color: #042127;
+    
+    
+}
+.Wrapper{
+   
+    width:80%;
+    overflow: hidden;
+    margin:0 auto;
+}
+.logo{
+    width: 25%;
+    height: 100px;
+    float: left;
+    display: inline-block;
+    padding-top: 20px;
+    margin-top: 20px;
+    color:white;
+    font-size: 15px;
+    
+
+}
+    
+
+
+    
+
+header nav{
+    width:70%;
+    float:right;
+    padding-top: 50px;
+    
+   
+   
+    
+}
+header nav ul{
+    list-style: none;
+    
+}
+header nav ul li{
+    float: left;
+    
+}
+header nav ul li a{
+    text-decoration: none;
+    padding:0px 30px;
+    padding-bottom: 20px;
+    font-size: 18px;
+    color:white;
+    
+    
+    
+}
+header nav ul li a:hover{
+    color:blue;
+    
+}
+
+.banner{
+    
+    min-height:300px;
+    background-size:cover;
+    background-color: #042127;
+    overflow: hidden;
+    width:100%;
+  
+    
+}
+.text{
+   
+    
+    margin-top:30px;
+    width: 39%;
+	float: left;
+}
+
+.text h1{
+    color:white;
+    font-size: 40px;
+    
+    
+}
+.text h3{
+     color:white;
+    font-size: 30px;
+   
+    
+}
+.text p{
+    color:white;
+    font-size: 18px;
+    
+}
+.images{
+   
+    margin:30px;
+    width:60%;
+    float:right;
+    
+    
+}
+
+.service{
+   
+	background-color: #ffffff;
+	overflow: hidden;
+   
+}
+.wrapper{
+    border-top:2px solid gray;
+	width: 80%;
+	overflow: hidden;
+    margin-top: 10px;
+}
+.servicewrap{
+   
+	width: 30%;
+	
+	float: left;
+    margin-left: 20px;
+    margin-top:80px;
+}
+.title{
+	
+	overflow: hidden;
+}
+.service_img{
+	width: 20%;
+	float: left;
+}
+.service_img img{
+	width: 100%;
+}
+.service_text{
+	width: 70%;
+	float: left;
+    
+}
+
+.service_text h2{
+	color: black;
+    padding-top: 20px;
+}
+.text{
+	color: white;
+    
+}
+.button1{
+    background-color:white;
+    color:black;
+    padding: 5px 10px;
+    border:2px solid black;
+    
+    border-radius:30%;
+    transition: 1s;
+    margin-top: 20px;
+    
+}
+.button1:hover{
+    background-color:darkslategray;
+    color:cornsilk;
+   
+}
+.featurewrap{
+    width: 30%;
+	
+	float: left;
+    margin-left: 20px;
+    margin-top:50px;
+    
+}
+.Features{
+    border:2px solid white;
+    background-color: #ffffff;
+	overflow: hidden;
+    
+    
+}
+.feature_title{
+    overflow: hidden;
+    
+}
+.feature_logo{
+   
+    
+}
+.feature_text h2{
+   
+    border:2px solid white;;
+    
+    
+}
+.button2{
+    background-color:white;
+    color:black;
+    padding: 5px 10px;
+    border:2px solid black;
+    
+    border-radius:30%;
+    transition: 1s;
+    margin-top: 20px;
+    
+}
+.button2:hover{
+    background-color:darkslategray;
+    color:cornsilk;
+   
+}
+.Tweetering{
+    
+   
+	padding-top: 40px;
+	overflow: hidden;
+	padding-bottom: 25px;
+    
+}
+
+.Tweeteringewrap{
+    
+    width: 100%;
+	overflow: hidden;
+	float: left;
+   
+   
+    
+}
+.Tweetering_title{
+    overflow: hidden;
+    width:60%;
+    float:left;
+    
+}
+.Tweetering_img{
+   width: 5%;
+  margin-top: 30px;
+    
+}
+.Tweetering_img img{
+    width: 100%;
+    float:left;
+    
+}
+
+.Tweetering_text{
+    
+    width: 80%;
+	float: left;
+    
+}
+.Tweetering_text h6{
+    font-size: 10px;
+    color: black;
+    padding-top: 20px;
+    
+}
+.Tweetering_text h4{
+    
+    
+}
+.MoreTweets{
+    width: 20%;
+    float: right;
+    padding: 20px 60px;
+    margin-bottom: 15px;
+   
+}
+.MoreTweets button{
+    width: 80%;
+    display: block;
+    padding: 17px;
+    font-weight: bold;
+    margin-top:20px;
+     
+}
+
+ 
+    
+    
+    
+   
+    
+   
+  
+    
+
+
+.MoreTweets button:hover{
+	color:crimson;
+	background-color:burlywood;
+}
+.para{
+    
+    width:25%;
+    font-size:12px;
+    
+    float:right;
+    color:white;
+    margin-left:30px;
+    margin-top:55px;
+    
+ 
+    
+
+    
+   
+   
+}
+footer{
+min-height: 100px;
+background-color: #042127;
+
+}
+footer nav{
+    
+    width:60%;
+   
+    float:left;
+    padding-top: 50px;
+    padding-right: 10px;
+   
+    
+   
+   
+    
+}
+.foot_wrap{
+    
+   
+    overflow: hidden;
+    width: 100%;
+   
+}
+footer nav ul{
+    list-style: none;
+    
+}
+footer nav ul li{
+    float: left;
+    
+}
+footer nav ul li a{
+    text-decoration: none;
+    padding:0px 30px;
+    padding-bottom: 20px;
+    font-size: 17px;
+    color:white;
+    
+    
+    
+}
+footer nav ul li a:hover{
+    color:blue;
+    
+}
